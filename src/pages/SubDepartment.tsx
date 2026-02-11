@@ -15,6 +15,8 @@ import welfare2 from '../assets/images/welfare2.png';
 import welfare3 from '../assets/images/welfare3.png';
 import men1 from '../assets/images/men1.png';
 import men2 from '../assets/images/men2.png';
+import keter from '../assets/images/keter.png';
+import stanly from '../assets/images/stanly.png';
 
 interface DeptDetails {
     name: string;
@@ -62,7 +64,7 @@ const SubDepartment: React.FC = () => {
             description: "Uniting men in Christ through fellowship, accountability, and service.",
             vision: "Men of integrity leading by example.",
             leader: "Mr. Keter",
-            leaderImage: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400",
+            leaderImage: keter,
             meetingTime: "First Sunday of the Month at 4:00 PM",
             location: "Church Annex",
             activities: ["Men's Retreats & Seminars", "C.M.F & CHF Rallies", "Annual Men's Conference (August)", "Ushirika Rallies", "Men's Fellowship Sundays"],
@@ -98,7 +100,7 @@ const SubDepartment: React.FC = () => {
             description: "Ensuring every person who walks through our doors feels expected, welcomed, and cared for.",
             vision: "Demonstrating Christ's love through exceptional service and hospitality.",
             leader: "Mr. Stanly Tiony",
-            leaderImage: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?auto=format&fit=crop&q=80&w=400",
+            leaderImage: stanly,
             meetingTime: "Sundays at 8:00 AM",
             location: "Main Entrance",
             activities: ["Annual Welfare Day (May)", "Youth Welfare Support", "Greeters Certification", "Visitor Hospitality", "Event Ushering Services"],
