@@ -6,6 +6,7 @@ import choir1 from '../assets/images/choir1.png';
 import hero2 from '../assets/images/hero2.png';
 import hero4 from '../assets/images/hero4.png';
 import welfare1 from '../assets/images/welfare1.png';
+import men1 from '../assets/images/men1.png';
 
 interface Department {
     id: string;
@@ -39,7 +40,7 @@ const Departments: React.FC = () => {
             name: "Men's Fellowship",
             icon: Shield,
             description: "Building strong, godly men who lead their families and community with integrity.",
-            image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800",
+            image: men1,
             color: "bg-blue-950"
         },
         {

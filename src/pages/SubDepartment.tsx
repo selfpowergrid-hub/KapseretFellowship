@@ -13,6 +13,8 @@ import hero4 from '../assets/images/hero4.png';
 import welfare1 from '../assets/images/welfare1.png';
 import welfare2 from '../assets/images/welfare2.png';
 import welfare3 from '../assets/images/welfare3.png';
+import men1 from '../assets/images/men1.png';
+import men2 from '../assets/images/men2.png';
 
 interface DeptDetails {
     name: string;
@@ -64,7 +66,8 @@ const SubDepartment: React.FC = () => {
             meetingTime: "First Sunday of the Month at 4:00 PM",
             location: "Church Annex",
             activities: ["Men's Retreats & Seminars", "C.M.F & CHF Rallies", "Annual Men's Conference (August)", "Ushirika Rallies", "Men's Fellowship Sundays"],
-            bannerImage: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=1200"
+            bannerImage: men1,
+            gallery: [men1, men2]
         },
         'sunday-school': {
             name: "Sunday School",
