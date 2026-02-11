@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
                 <div className="text-center md:text-left">
                     <h3 className="font-serif font-bold text-xl mb-4 text-white">Contact & Location</h3>
                     <p className="leading-relaxed text-stone-300">
-                        AIC Kapseret Fellowship,<br />
+                        AIC KAPSERET FELLOWSHIP,<br />
                         Upper St. George, Emitik Road,<br />
                         Kapseret, Uasin Gishu County,<br />
                         Kenya
@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
 
             <div className="max-w-7xl mx-auto mt-12 pt-8 border-t border-white/10 text-center">
                 <p className="text-stone-400 text-sm">
-                    © {currentYear} AIC Kapseret Fellowship. All rights reserved.
+                    © {currentYear} AIC KAPSERET FELLOWSHIP. All rights reserved.
                 </p>
             </div>
         </footer>

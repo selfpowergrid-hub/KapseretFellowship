@@ -33,8 +33,8 @@ const Header: React.FC = () => {
                                 className="h-14 w-14 object-contain brightness-110"
                             />
                         </div>
-                        <span className="font-serif font-bold text-2xl text-stone-700 md:block hidden">AIC Kapseret Fellowship</span>
-                        <span className="font-serif font-bold text-xl text-stone-700 md:hidden block">AIC Kapseret</span>
+                        <span className="font-serif font-bold text-2xl text-stone-700 md:block hidden">AIC KAPSERET FELLOWSHIP</span>
+                        <span className="font-serif font-bold text-xl text-stone-700 md:hidden block">AIC KAPSERET FELLOWSHIP</span>
                     </Link>
 
                     {/* Desktop Navigation */}
