@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Clock, BookOpen, ArrowRight } from 'lucide-react';
 
-const heroImages = [
-    '/src/assets/images/hero1.png?v=1',
-    '/src/assets/images/hero2.png?v=1',
-    '/src/assets/images/hero3.png?v=1',
-    '/src/assets/images/hero4.png?v=1'
-];
+import hero1 from '../assets/images/hero1.png';
+import hero2 from '../assets/images/hero2.png';
+import hero3 from '../assets/images/hero3.png';
+import hero4 from '../assets/images/hero4.png';
+import theme from '../assets/images/theme.png';
+
+const heroImages = [hero1, hero2, hero3, hero4];
 
 interface BibleVerse {
     verse: string;
@@ -101,7 +102,7 @@ const Home: React.FC = () => {
                 <div className="max-w-7xl mx-auto px-4 pt-20 pb-12">
                     <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
                         <img
-                            src="/src/assets/images/theme.png?v=1"
+                            src={theme}
                             alt="AIC Church Theme"
                             className="w-full h-auto object-cover max-h-[600px]"
                         />

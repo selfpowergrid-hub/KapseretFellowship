@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
+import logo from '../assets/images/logo.png';
 
 const Header: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -27,12 +28,13 @@ const Header: React.FC = () => {
                     <Link to="/" className="flex items-center space-x-3">
                         <div className="h-12 w-12 bg-white rounded-full p-1 shadow-sm border border-red-100 flex items-center justify-center">
                             <img
-                                src="/src/assets/images/logo.png"
+                                src={logo}
                                 alt="AIC Logo"
-                                className="h-10 w-auto object-contain"
+                                className="h-14 w-14 object-contain brightness-110"
                             />
                         </div>
-                        <span className="font-serif font-bold text-2xl text-stone-700">AIC Kapseret Fellowship</span>
+                        <span className="font-serif font-bold text-2xl text-stone-700 md:block hidden">AIC Kapseret Fellowship</span>
+                        <span className="font-serif font-bold text-xl text-stone-700 md:hidden block">AIC Kapseret</span>
                     </Link>
 
                     {/* Desktop Navigation */}

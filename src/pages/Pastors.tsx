@@ -1,18 +1,21 @@
 import React from 'react';
 import { Quote } from 'lucide-react';
 
+import meli from '../assets/images/meli.png';
+import joshuo from '../assets/images/joshuo.png';
+
 const Pastors: React.FC = () => {
     const pastors = [
         {
             name: "Rael Meli",
             title: "Senior Pastor",
-            image: "/src/assets/images/meli.png",
+            image: meli,
             bio: "Pastor Rael has been leading our fellowship with wisdom and grace since she joined our church. Her heart is for the spiritual growth of every member of our community."
         },
         {
             name: "Joshua Maiyo",
             title: "Associate Pastor",
-            image: "/src/assets/images/joshuo.png",
+            image: joshuo,
             bio: "Pastor Joshua brings dynamic energy to our youth and teens departments. He is passionate about seeing the next generation rooted in the Word."
         }
     ];
