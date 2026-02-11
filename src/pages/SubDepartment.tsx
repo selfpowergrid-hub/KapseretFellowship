@@ -10,6 +10,9 @@ import choir1 from '../assets/images/choir1.png';
 import choir2 from '../assets/images/choir2.png';
 import hero2 from '../assets/images/hero2.png';
 import hero4 from '../assets/images/hero4.png';
+import welfare1 from '../assets/images/welfare1.png';
+import welfare2 from '../assets/images/welfare2.png';
+import welfare3 from '../assets/images/welfare3.png';
 
 interface DeptDetails {
     name: string;
@@ -96,7 +99,8 @@ const SubDepartment: React.FC = () => {
             meetingTime: "Sundays at 8:00 AM",
             location: "Main Entrance",
             activities: ["Annual Welfare Day (May)", "Youth Welfare Support", "Greeters Certification", "Visitor Hospitality", "Event Ushering Services"],
-            bannerImage: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?auto=format&fit=crop&q=80&w=1200"
+            bannerImage: welfare1,
+            gallery: [welfare1, welfare2, welfare3]
         }
     };
 

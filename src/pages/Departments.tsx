@@ -5,6 +5,7 @@ import sunday1 from '../assets/images/sunday1.png';
 import choir1 from '../assets/images/choir1.png';
 import hero2 from '../assets/images/hero2.png';
 import hero4 from '../assets/images/hero4.png';
+import welfare1 from '../assets/images/welfare1.png';
 
 interface Department {
     id: string;
@@ -62,7 +63,7 @@ const Departments: React.FC = () => {
             name: "Welfare/Hospitality & Ushering",
             icon: Coffee,
             description: "Greeting every visitor with a warm smile and ensuring a welcoming atmosphere.",
-            image: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?auto=format&fit=crop&q=80&w=800",
+            image: welfare1,
             color: "bg-red-600"
         }
     ];
