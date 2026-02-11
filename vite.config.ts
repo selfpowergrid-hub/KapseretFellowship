@@ -9,6 +9,6 @@ export default defineConfig({
     tailwindcss(),
   ],
   build: {
-    outDir: 'AIC_Kapseret_Final',
+    outDir: 'dist',
   }
 })
