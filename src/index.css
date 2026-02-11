@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@layer theme {
+  :root {
+    --font-merriweather: "Merriweather", serif;
+    --font-montserrat: "Montserrat", sans-serif;
+  }
+}
+
+@theme {
+  --font-serif: var(--font-merriweather);
+  --font-sans: var(--font-montserrat);
+
+  --color-primary-bg: #FAFAF9;
+  /* stone-50 */
+  --color-primary-text: #44403C;
+  /* stone-700 */
+  --color-dark-blue: #172554;
+  /* blue-950 */
+  --color-red-primary: #e31b23;
+  /* aic-red */
+  --color-red-border: #ef4444;
+  /* red-500 */
+  --color-red-light: #fef2f2;
+  /* red-50 */
+
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  --animate-fade-in: fade-in-up 0.5s ease-in-out;
+}
+
+@layer base {
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap');
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-merriweather);
+  }
+
+  body {
+    font-family: var(--font-montserrat);
+    @apply bg-stone-50 text-stone-700;
+  }
+}
+
+.page-transition {
+  animation: fade-in-up 0.5s ease-in-out forwards;
+}

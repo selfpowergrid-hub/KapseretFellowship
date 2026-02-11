@@ -1,0 +1,545 @@
+{
+  "JANUARY": {
+    "events": [
+      {
+        "date": "1/1/25",
+        "activity": "Men Retreat",
+        "venue": "Mr. E.Saina Residence",
+        "isHighlight": false
+      },
+      {
+        "date": "1/4/26",
+        "activity": "New Year Thanksgiving",
+        "venue": "LCC'S",
+        "isHighlight": false
+      },
+      {
+        "date": "1/9/26",
+        "activity": "RCC Pastors Prayer Fellowship",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "1/17/26",
+        "activity": "C.M.F Rally",
+        "venue": "AIC Boarderlands",
+        "isHighlight": false
+      },
+      {
+        "date": "1/24/26",
+        "activity": "All CE Teachers Seminar/programme Teachers",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "1/31/26",
+        "activity": "CHF Seminar",
+        "venue": "",
+        "isHighlight": false
+      }
+    ],
+    "notes": []
+  },
+  "FEBRUARY": {
+    "events": [
+      {
+        "date": "3-7/2/2026",
+        "activity": "All DCC Council Members Seminar",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      },
+      {
+        "date": "2/7/26",
+        "activity": "Annual regional Women Rally",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "2/14/26",
+        "activity": "Banquet/Retreat",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "2/15/26",
+        "activity": "Annual Get together Fellowship",
+        "venue": "AIC Cheplaskei",
+        "isHighlight": true
+      },
+      {
+        "date": "2/21/26",
+        "activity": "Team Building /Women/Retreat",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "25-28/2/26",
+        "activity": "Instructors/Superintendents Conf.",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      },
+      {
+        "date": "2/26/26",
+        "activity": "Sunday school Teachers Retreat",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "2/28/26",
+        "activity": "C.W.F Rally",
+        "venue": "AIC Chepkatet",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1.MEN FELLOWSHIP SUNDAY"
+    ]
+  },
+  "MARCH": {
+    "events": [
+      {
+        "date": "3/1/26",
+        "activity": "Annual CED Day Prayer/Contributions",
+        "venue": "All CCC",
+        "isHighlight": false
+      },
+      {
+        "date": "3/7/26",
+        "activity": "All Men's CHF Rally",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "3/8/26",
+        "activity": "Sunday School Rally",
+        "venue": "AIC Airport",
+        "isHighlight": false
+      },
+      {
+        "date": "3/14/26",
+        "activity": "Choir Rally",
+        "venue": "AIC Kapseret",
+        "isHighlight": false
+      },
+      {
+        "date": "3/15/26",
+        "activity": "CED Collections",
+        "venue": "Local Churches",
+        "isHighlight": false
+      },
+      {
+        "date": "3/21/26",
+        "activity": "Women Rally",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "3/28/26",
+        "activity": "Widows Rally",
+        "venue": "AIC Sosiot",
+        "isHighlight": false
+      },
+      {
+        "date": "3/28/26",
+        "activity": "Sunday School Teachers Seminar",
+        "venue": "AIC Pioneer",
+        "isHighlight": false
+      },
+      {
+        "date": "31/3-3/4/26",
+        "activity": "CED Workers Retreat",
+        "venue": "AIC Cheptebo",
+        "isHighlight": false
+      }
+    ],
+    "notes": []
+  },
+  "APRIL": {
+    "events": [
+      {
+        "date": "4/4/26",
+        "activity": "Food as medicine seminar/Youth",
+        "venue": "AIC KAPSERET",
+        "isHighlight": false
+      },
+      {
+        "date": "4/5/26",
+        "activity": "Graduation CHF/CWF",
+        "venue": "AIC KAPSERET",
+        "isHighlight": false
+      },
+      {
+        "date": "4/6/26",
+        "activity": "SUNDAYSCHOOL/TEEN FUN DAY",
+        "venue": "AIC KAPSERET",
+        "isHighlight": false
+      },
+      {
+        "date": "6-11/4/2026",
+        "activity": "CE Courses",
+        "venue": "AIC Cheplaskei",
+        "isHighlight": false
+      },
+      {
+        "date": "4/11/26",
+        "activity": "C.Y.A Rally",
+        "venue": "AIC Ng'aniat",
+        "isHighlight": true
+      },
+      {
+        "date": "14-18/4/26",
+        "activity": "Annual Women Conference DCC",
+        "venue": "Respective",
+        "isHighlight": true
+      },
+      {
+        "date": "4/19/26",
+        "activity": "WOMEN SUNDAY",
+        "venue": "",
+        "isHighlight": true
+      },
+      {
+        "date": "4/25/26",
+        "activity": "Widows Rally with activities",
+        "venue": "AIC Cheplaskei",
+        "isHighlight": false
+      },
+      {
+        "date": "28/4-1/5/26",
+        "activity": "Pastors Wives / Ladies Conf.",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1.CHOIR RECORDING",
+      "2. EVANGELISM/VISITATIONS (2nd week of April)",
+      "3.BAPTISM"
+    ]
+  },
+  "MAY": {
+    "events": [
+      {
+        "date": "5/2/26",
+        "activity": "Battalion Rally",
+        "venue": "AIC Lamaiwet",
+        "isHighlight": false
+      },
+      {
+        "date": "5/3/26",
+        "activity": "AICMD",
+        "venue": "National",
+        "isHighlight": false
+      },
+      {
+        "date": "5/10/26",
+        "activity": "Star/Cadettes Rally",
+        "venue": "AIC Radich",
+        "isHighlight": false
+      },
+      {
+        "date": "5/17/26",
+        "activity": "WELFARE DAY",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "5/23/26",
+        "activity": "CWF Rally with activities",
+        "venue": "AIC Fellowship",
+        "isHighlight": true
+      },
+      {
+        "date": "5/30/26",
+        "activity": "CHF/CMF Rally with activities",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1. CHOIR KASS STUDIO VISITATION"
+    ]
+  },
+  "JUNE": {
+    "events": [
+      {
+        "date": "6/6/26",
+        "activity": "CWF RALLY.",
+        "venue": "AIC KAPSERET",
+        "isHighlight": false
+      },
+      {
+        "date": "6/7/26",
+        "activity": "CED Demonstration Teachers & Program Leaders",
+        "venue": "AIC Pioneer",
+        "isHighlight": true
+      },
+      {
+        "date": "6/13/26",
+        "activity": "Ushirika Rally",
+        "venue": "AIC Chepkatet",
+        "isHighlight": false
+      },
+      {
+        "date": "6/14/26",
+        "activity": "Fund Raising Day-DEVELOPMENT",
+        "venue": "",
+        "isHighlight": true
+      },
+      {
+        "date": "6/20/26",
+        "activity": "All Widows Rally",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "6/21/26",
+        "activity": "Annual Thanksgiving Service",
+        "venue": "AIC Chepkatet",
+        "isHighlight": true
+      },
+      {
+        "date": "6/27/26",
+        "activity": "CWF Rally with activities",
+        "venue": "AIC Pioneer",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1. PASTORS' DAY(LCC)",
+      "2.YOUTH WELFARE DAY/YOUTH SUNDAY",
+      "3.Worship Experience(half-term)"
+    ]
+  },
+  "JULY": {
+    "events": [
+      {
+        "date": "7/4/26",
+        "activity": "Leaders Seminar DCC",
+        "venue": "AIC Chepkatet",
+        "isHighlight": false
+      },
+      {
+        "date": "6-10/7/2026",
+        "activity": "Annual Pastors Conference",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      },
+      {
+        "date": "7/18/26",
+        "activity": "Choir Motivation",
+        "venue": "AIC Lamaiwet",
+        "isHighlight": false
+      },
+      {
+        "date": "7/25/26",
+        "activity": "CHF Rally with activities",
+        "venue": "AIC Chebisaas",
+        "isHighlight": false
+      }
+    ],
+    "notes": []
+  },
+  "AUGUST": {
+    "events": [
+      {
+        "date": "8/1/26",
+        "activity": "CSC/Star/CSB/Captains Guides Rally",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "8/2/26",
+        "activity": "CED Day/Prayer",
+        "venue": "LCC",
+        "isHighlight": false
+      },
+      {
+        "date": "4-8/8/2026",
+        "activity": "ALL Men's conference",
+        "venue": "Respective",
+        "isHighlight": true
+      },
+      {
+        "date": "12-16/8/26",
+        "activity": "Annual Women conference",
+        "venue": "AIC Lelmolok",
+        "isHighlight": true
+      },
+      {
+        "date": "8/15/26",
+        "activity": "Visitation by Choir",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "17-22/8/26",
+        "activity": "CE Courses/ Youth Retreat Local",
+        "venue": "AIC Cheplaskei",
+        "isHighlight": false
+      },
+      {
+        "date": "8/22/26",
+        "activity": "Programme Graduation",
+        "venue": "AIC Chepkatet",
+        "isHighlight": false
+      },
+      {
+        "date": "8/29/26",
+        "activity": "Senior Youth Rally",
+        "venue": "Done DCCs",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1. MEDICAL  CAMP",
+      "2. PASTORAL VISITATION"
+    ]
+  },
+  "SEPTEMBER": {
+    "events": [
+      {
+        "date": "9/5/26",
+        "activity": "Sunday School Rally",
+        "venue": "AIC Ng'aniat",
+        "isHighlight": false
+      },
+      {
+        "date": "9/6/26",
+        "activity": "RCC Women Thanksgiving Rally",
+        "venue": "AIC Fellowship",
+        "isHighlight": false
+      },
+      {
+        "date": "9/13/26",
+        "activity": "8th Anniversary Day",
+        "venue": "AIC Pioneer",
+        "isHighlight": false
+      },
+      {
+        "date": "9/20/26",
+        "activity": "CED Day Collections",
+        "venue": "Local Churches",
+        "isHighlight": false
+      },
+      {
+        "date": "9/26/26",
+        "activity": "CWF Rally with activities",
+        "venue": "",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1. Choir open air Crusade"
+    ]
+  },
+  "OCTOBER": {
+    "events": [
+      {
+        "date": "10/4/26",
+        "activity": "AICMD",
+        "venue": "All CCC",
+        "isHighlight": false
+      },
+      {
+        "date": "10/10/26",
+        "activity": "Men Seminar/retreat",
+        "venue": "LCC",
+        "isHighlight": false
+      },
+      {
+        "date": "10/18/26",
+        "activity": "CHOIR DAY",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "10/24/26",
+        "activity": "C.Y.A Rally",
+        "venue": "AIC Sosiot",
+        "isHighlight": false
+      }
+    ],
+    "notes": []
+  },
+  "NOVEMBER": {
+    "events": [
+      {
+        "date": "11/7/26",
+        "activity": "Youth Rally",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "9-13/11/26",
+        "activity": "Widows conference",
+        "venue": "AIC Wareng East",
+        "isHighlight": false
+      },
+      {
+        "date": "11/14/26",
+        "activity": "CWF RETREAT",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "11/21/26",
+        "activity": "CYA Rally with activities",
+        "venue": "AIC Kao La Amani",
+        "isHighlight": false
+      },
+      {
+        "date": "23-28/11/26",
+        "activity": "All Junior conference",
+        "venue": "Respective",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1.Childern/Widdows visitation(CWF)"
+    ]
+  },
+  "DECEMBER": {
+    "events": [
+      {
+        "date": "30/11-6/12",
+        "activity": "1.ALL VBS             2.SUNDAYSCHOOL SUNDAY",
+        "venue": "Local churches",
+        "isHighlight": false
+      },
+      {
+        "date": "12/6/26",
+        "activity": "THANKS GIVING DAY",
+        "venue": "",
+        "isHighlight": false
+      },
+      {
+        "date": "7-12/12/26",
+        "activity": "18 years and above Conference",
+        "venue": "Respective",
+        "isHighlight": false
+      },
+      {
+        "date": "12/20/26",
+        "activity": "PASTORS DAY",
+        "venue": "AIC KAPSERET",
+        "isHighlight": false
+      },
+      {
+        "date": "12/25/26",
+        "activity": "CRISTMASS DAY CELEBRATIONS",
+        "venue": "LCCs",
+        "isHighlight": false
+      },
+      {
+        "date": "12/31/26",
+        "activity": "CROSSOVER KESHA",
+        "venue": "",
+        "isHighlight": false
+      }
+    ],
+    "notes": [
+      "1. BAPTISM"
+    ]
+  }
+}
